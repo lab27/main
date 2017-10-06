@@ -6,5 +6,8 @@ h1 {
 
 .funny {
     background: purple;
-    color: lime;
+    color: lime;}
+    
+p {
+    font-size: 2rem;
 }
